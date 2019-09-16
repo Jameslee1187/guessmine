@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/Jameslee1187/guessmine.git",
   "author": "<jameslee1187@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2",
+    "socket.io": "^2.2.0"
+  }
 }
