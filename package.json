@@ -1,0 +1,8 @@
+{
+  "name": "guessmine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jameslee1187/guessmine.git",
+  "author": "<jameslee1187@gmail.com>",
+  "license": "MIT"
+}
